@@ -99,11 +99,11 @@ Mai jos sunt prezentate toate funcționalitățile implementate (inclusiv bonusu
 3. **Pornirea aplicației:**
    - **Frontend:**
      ```bash
+     cd Proba-IT-LSAC
      npm run dev
      ```
    - **Backend:**
      ```bash
-     cd Proba-IT-LSAC
      npm start
      ```
 
